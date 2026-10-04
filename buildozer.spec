@@ -5,7 +5,7 @@ package.domain = org.ytsub
 source.dir = .
 source.include_exts = py,png,jpg,ttf,xml,json
 version = 1.0
-requirements = python3,kivy==2.3.0,pyjnius,android,certifi,urllib3,idna,charset-normalizer,requests,defusedxml,beautifulsoup4,soupsieve,deep-translator,youtube-transcript-api,yt-dlp,arabic-reshaper,python-bidi==0.4.2,future,websockets,brotli
+requirements = python3==3.13.2,kivy==2.3.0,pyjnius,android,certifi,urllib3,idna,charset-normalizer,requests,defusedxml,beautifulsoup4,soupsieve,deep-translator,youtube-transcript-api,yt-dlp,arabic-reshaper,python-dateutil,pandas,typing_extensions
 orientation = portrait
 fullscreen = 0
 android.permissions = INTERNET
